@@ -52,7 +52,7 @@ Read more about [test card numbers](https://www.checkout.com/docs/developer-reso
 
 ### Failure View
 
-![Failure View](docs/failure.png)
+![Failure View](docs/failure_view.png)
 
 ### Success View
 
